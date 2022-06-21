@@ -3,3 +3,4 @@
 /log/
 /logs
 /venv/
+/test/temp*.json

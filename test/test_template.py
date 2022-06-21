@@ -24,10 +24,10 @@ class Test(unittest.TestCase):
     def tearDown(self) -> None:
         """"""
 
-    def test_01_():
+    def test_01_(self):
         """"""
 
-    def test_02_():
+    def test_02_(self):
         """"""
 
 
